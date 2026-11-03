@@ -19,7 +19,9 @@ right = \relative c' {
   c4 d e f |
   <e b g>4 <b f' d> <e c a>8 <d a c> <b e a> <e d>16 <a g> |
   <e c>4 <d b g>2 r4 | \bar "|."
-  a g f g g g 
+  a g f g |
+
+  d'16 e fs gs as 
 }
 
 dynamics = {
